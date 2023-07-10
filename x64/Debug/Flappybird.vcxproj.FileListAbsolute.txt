@@ -1,0 +1,2 @@
+D:\Рабочий стол\03 Arkanoid\Flappybird\x64\Debug\Flappybird.exe
+D:\Рабочий стол\sfml-flappy-bird-master\x64\Debug\Flappybird.exe
